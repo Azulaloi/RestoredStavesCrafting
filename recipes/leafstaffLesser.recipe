@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "durasteelbar", "count" : 6 },
+    { "item" : "diamond", "count" : 4 },
+    { "item" : "livingroot", "count" : 3 },
+    { "item" : "venomsample", "count" : 1 },
+    { "item" : "battery", "count" : 1 }
+  ],
+  "output" : { "item" : "leafstaffLesser", "count" : 1 },
+  "groups" : [ "craftinganvil3", "weapons", "all" ]
+}

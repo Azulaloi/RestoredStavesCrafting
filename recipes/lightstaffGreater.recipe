@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "refinedferozium", "count" : 6 },
+    { "item" : "durasteelbar", "count" : 6 },
+    { "item" : "phasematter", "count" : 4 },
+    { "item" : "perfectlygenericitem", "count" : 4 },
+    { "item" : "battery", "count" : 1 }
+  ],
+  "output" : { "item" : "lightstaffGreater", "count" : 1 },
+  "groups" : [ "craftingmanipulator", "weapons", "all" ]
+}

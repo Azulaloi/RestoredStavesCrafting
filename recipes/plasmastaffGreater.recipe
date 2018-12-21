@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "refinedferozium", "count" : 6 },
+    { "item" : "durasteelbar", "count" : 6 },
+    { "item" : "volatilepowder", "count" : 32 },
+    { "item" : "staticcell", "count" : 2 },
+    { "item" : "scorchedcore", "count" : 2 },
+    { "item" : "battery", "count" : 1 }
+  ],
+  "output" : { "item" : "plasmastaffGreater", "count" : 1 },
+  "groups" : [ "craftingmanipulator", "weapons", "all" ]
+}

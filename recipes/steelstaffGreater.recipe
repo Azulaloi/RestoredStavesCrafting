@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "refinedferozium", "count" : 6 },
+    { "item" : "durasteelbar", "count" : 8 },
+    { "item" : "diamond", "count" : 4 },
+    { "item" : "staticcell", "count" : 4 },
+    { "item" : "siliconboard", "count" : 8 },
+    { "item" : "battery", "count" : 1 }
+  ],
+  "output" : { "item" : "steelstaffGreater", "count" : 1 },
+  "groups" : [ "craftingmanipulator", "weapons", "all" ]
+}

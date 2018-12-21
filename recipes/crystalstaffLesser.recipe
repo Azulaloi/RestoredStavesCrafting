@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "durasteelbar", "count" : 8 },
+    { "item" : "diamond", "count" : 8 },
+    { "item" : "phasematter", "count" : 2 },
+    { "item" : "staticcell", "count" : 2 },
+    { "item" : "battery", "count" : 1 }
+  ],
+  "output" : { "item" : "crystalstaffLesser", "count" : 1 },
+  "groups" : [ "craftinganvil3", "weapons", "all" ]
+}

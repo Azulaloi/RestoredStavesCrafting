@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "refinedferozium", "count" : 6 },
+    { "item" : "durasteelbar", "count" : 6 },
+    { "item" : "livingroot", "count" : 8 },
+    { "item" : "venomsample", "count" : 4 },
+    { "item" : "battery", "count" : 1 }
+  ],
+  "output" : { "item" : "leafstaffGreater", "count" : 1 },
+  "groups" : [ "craftingmanipulator", "weapons", "all" ]
+}

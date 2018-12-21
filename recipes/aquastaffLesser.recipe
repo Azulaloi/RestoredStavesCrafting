@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "durasteelbar", "count" : 6 },
+    { "item" : "diamond", "count" : 4 },
+    { "item" : "liquidwater", "count" : 50 },
+    { "item" : "battery", "count" : 1 }
+  ],
+  "output" : { "item" : "aquastaffLesser", "count" : 1 },
+  "groups" : [ "craftinganvil3", "weapons", "all" ]
+}
