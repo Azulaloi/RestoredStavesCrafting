@@ -1,7 +1,9 @@
 {
   "author" : "Azulaloi",
-  "description" : "Racial crafting recipes for Restored Staves.",
+  "description" : "Requires Restored Staves!\n\nThis patch adds racial crafting recipes for Restored Staves. Each race is now able to craft their two staves by default. The lesser is crafted at the replicator, while the greater is crafted at the manipulator.\n\nLet me know if the recipes are too late-game or expensive.",
   "friendlyName" : "Restored Staves Crafting Patch",
+  "link" : "steam://url/CommunityFilePage/1597390849",
   "name" : "az-restoredstavescrafting",
+  "steamContentId" : "1597390849",
   "version" : "1.0"
 }
